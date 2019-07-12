@@ -1,12 +1,19 @@
 nav {
     background-color:black;
     color:white;
+    }
+
+nav ul li .nav-item {
+    font:white;
 }
 
+div {
+    text-align: center;
+}
 
-
-
-
+section {
+    text-align: center;
+}
 
 
 
